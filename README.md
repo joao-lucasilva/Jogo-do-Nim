@@ -35,7 +35,7 @@ Execute o arquivo jogo_nim.py em seu ambiente Python.
 
 ## Tecnologias
 Neste projeto foi utilizado:
-	* [Python3](https://www.python.org/);
+  [Python3](https://www.python.org/);
 
 ## Autor
 Desenvolvido por João Lucas da Silvano Curso Introdução a Ciência da Computação com Python da USP.
